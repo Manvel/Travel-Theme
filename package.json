@@ -1,0 +1,23 @@
+{
+  "name": "travel-theme",
+  "version": "1.0.0",
+  "description": "Bootstrap Theme webpage",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTR500miles2go/Travel-Theme.git"
+  },
+  "keywords": [
+    "Theme",
+    "Bootstrap"
+  ],
+  "author": "Diane Gayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTR500miles2go/Travel-Theme/issues"
+  },
+  "homepage": "https://github.com/OTR500miles2go/Travel-Theme#readme"
+}
